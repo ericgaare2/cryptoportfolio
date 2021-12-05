@@ -11,12 +11,3 @@
 ### We will do it in a couple of difference ways:
  - (1) From the command line by just using straightup python code DONE
  - (2) Build a GUI Desktop App
-
-# STOCK Roadmap
-
-## Use Yfinance API to get stock data
- - Will potentially use this as a python template https://github.com/JordanDotT/StockInfo 
- - YFinance API will need 3 mandatory arguments in this order:
-### (1)Tickers 
-### (2)Start date + End date or Period 
-### (3)Interval 
