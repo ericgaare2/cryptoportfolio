@@ -6,8 +6,8 @@
 
 ## Build a crypto currency portfolio App with Python
  - Create functions to add, remove, and update crypto holdings DONE
- - The roadmap will be to build a python App that goes and looks up current pricees of different cryptocurrencies and then output the results on the screen.
+ - The roadmap will be to build a python App that goes and looks up current prices of different cryptocurrencies and then output the results on the screen. DONE
 
 ### We will do it in a couple of difference ways:
  - (1) From the command line by just using straightup python code DONE
- - (2) Build a GUI Desktop App
+ - (2) Build a GUI Desktop App DONE
